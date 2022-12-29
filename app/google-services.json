@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321896605872",
+    "project_id": "tdl-with-firebase",
+    "storage_bucket": "tdl-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321896605872:android:cf8739567de79dec113375",
+        "android_client_info": {
+          "package_name": "com.example.tdlwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321896605872-kqsp0ffkoj8vh5qvlrs7a8sp1dsdni2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMA9tFYZfQmcIGYhDRF0PgCXoj3o-vEFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321896605872-kqsp0ffkoj8vh5qvlrs7a8sp1dsdni2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
